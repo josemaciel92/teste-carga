@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "k6": "^0.0.0",
+    "sha1": "^1.1.1"
+  },
+  "dependencies": {
+    "cypress": "^14.5.0"
+  }
+}
