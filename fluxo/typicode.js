@@ -10,7 +10,7 @@ const httpOtherFailures = new Counter('http_reqs_status_other_failure');
 export const options = {
 
     stages: [
-        { duration: '1m', target: 500 },
+        { duration: '5m', target: 500 },
 
     ],
     thresholds: {
